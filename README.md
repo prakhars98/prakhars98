@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @prakhars98
 - 👀 I’m interested in web development, Artificial Intelligence and Blockchain
-- 🌱 I’m currently learning full stack web development (MERN)
-- 💞️ I’m looking to collaborate on cool web dev projects
 - 📫 How to reach me prakharsinghchandel@gmail.com
 
 <!---
